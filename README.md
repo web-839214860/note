@@ -4,7 +4,7 @@
 
 -   整体采用表格布局展示数据、对话框形式操作数据
 -   使用 xml2js 处理数据导出, 使用 moment.js 格式化时间显示
--   重构应用程序的相关代码路径: notes-app-main\src\react-app
+-   重构应用程序的相关代码路径: src\react-app
 
 ## About This App
 
